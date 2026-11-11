@@ -12,6 +12,109 @@
 
 [![Download Resume](https://img.shields.io/badge/Download-Resume-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Resume.pdf)
 
+## 🚀 Featured Projects
+
+<table>
+<tr><td>
+
+### 🌸 The Nura Care — women's-health platform &nbsp;·&nbsp; [thenura.care](https://thenura.care)
+
+A complete period- and women's-health ecosystem: a cross-platform mobile app, a real-time backend, an admin/clinician workspace, a CMS and an SEO-optimised website.
+
+- 📱 **Mobile app** — cycle tracking & predictions, an AI assistant (text + voice), partner view, gynaecologist consultations, document Q&A, habits and reels
+- 💬 **Period Buddy community** — real-time chat over WebSockets and video calls
+- 🩺 **Admin & clinician workspace** — rich-text content authoring, consultations, payouts and referrals
+- ☁️ **Production backend** — REST + WebSocket API with push notifications, file storage and CI/CD on AWS
+
+![React Native](https://img.shields.io/badge/React_Native-20232a?logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404d59?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
+
+**Repos:** [period-buddy](https://github.com/utkarshpayal/period-buddy) (app) · [period-buddy-be](https://github.com/utkarshpayal/period-buddy-be) (API) · [period-buddy-content](https://github.com/utkarshpayal/period-buddy-content) (workspace) · [the-nura-care-cms](https://github.com/utkarshpayal/the-nura-care-cms) (CMS) · [The-Nura-website](https://github.com/utkarshpayal/The-Nura-website) (website)
+
+</td></tr>
+<tr><td>
+
+### ⚡ Hyperrcompute — decentralised GPU marketplace
+
+Rent and share GPU/compute power without a centralised cloud. Providers expose their machines through reverse peer-to-peer tunnels, and users get isolated Docker-based Ubuntu environments with a live browser terminal.
+
+- 🔒 **Isolated environments** — each session runs in its own Docker container, managed via a provider-side API
+- 🖥️ **In-browser terminal** — interactive shell over WebSockets with xterm.js
+- 🌐 **No port forwarding** — machines are reachable over HyperDHT / Holesail tunnels
+- 💳 **Marketplace** — provider & node registration, GPU-based job scheduling and Stripe payments
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
+![HyperDHT](https://img.shields.io/badge/HyperDHT-P2P-8A2BE2)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white)
+
+**Repos:** [ComputeMesh](https://github.com/utkarshpayal/ComputeMesh) (backend) · [serverside-of-hyperrcompute](https://github.com/utkarshpayal/serverside-of-hyperrcompute) (provider agent) · [pear-gpu](https://github.com/utkarshpayal/pear-gpu) (P2P host manager) · [stripe-payment-BE](https://github.com/utkarshpayal/stripe-payment-BE) (payments) · [Nodeflare-FE](https://github.com/utkarshpayal/Nodeflare-FE) (website)
+
+</td></tr>
+<tr><td>
+
+### 🕳️ Holesail — truly peer-to-peer proxy for TCP & UDP
+
+Contributor to [**holesail/holesail**](https://github.com/holesail/holesail) ⭐ — a Node.js package that tunnels any localhost port to global access, with no port forwarding, servers or configuration.
+
+- 🔗 **Peer-to-peer connectivity** without exposing IP addresses, working through firewalls and NAT
+- 🧱 **Client-server tunnelling** of localhost ports over HyperDHT
+- 🧩 Powers my other projects — Hyperrcompute and Dev Connect are built on top of it
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![HyperDHT](https://img.shields.io/badge/HyperDHT-P2P-8A2BE2)
+![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
+
+**Repos:** [holesail/holesail](https://github.com/holesail/holesail) · [hyper-cmd-lib-net](https://github.com/utkarshpayal/hyper-cmd-lib-net) · [hyper-cmd-lib-keys](https://github.com/utkarshpayal/hyper-cmd-lib-keys)
+
+</td></tr>
+<tr><td>
+
+### 📊 LogSense — AI-powered observability platform
+
+Turns raw application logs into meaningful insights. Drop the SDK into a Node.js app and get dashboards, traces and an AI agent you can question in plain English.
+
+- 🤖 **"Ask your logs"** — AI agent with semantic search over logs (pgvector + Ollama)
+- 📈 **Dashboard** — log explorer, trace waterfall, pattern grouping, metrics and an active-users map
+- 📦 **Node.js SDKs** — Express middleware, redaction, batching and gzip
+- 📰 **Daily AI report** of your system's health, delivered to Discord
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+
+**Repos:** [logsense-web](https://github.com/utkarshpayal/logsense-web) (dashboard) · [logsense-server](https://github.com/utkarshpayal/logsense-server) (API) · [logsense-latest-sdk](https://github.com/utkarshpayal/logsense-latest-sdk) · [logsense-sdk-node](https://github.com/utkarshpayal/logsense-sdk-node) (SDKs)
+
+</td></tr>
+<tr><td>
+
+### 🔌 Dev Connect — share your localhost from VS Code
+
+A Visual Studio Code extension that lets you share your local frontend, backend or database with anyone in the world — and connect to theirs — using just a connection key. No central server needed.
+
+- 🚀 **Expose any host:port** straight from VS Code
+- 🔑 **Connect to a peer's localhost** with a connection key
+- 🌐 Built on **Holesail**'s peer-to-peer network
+
+![VS Code](https://img.shields.io/badge/VS_Code_Extension-0078D4?logo=visual%20studio%20code&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![Holesail](https://img.shields.io/badge/Holesail-P2P-8A2BE2)
+
+**Repo:** [dev-connect](https://github.com/utkarshpayal/dev-connect)
+
+</td></tr>
+</table>
+
 ## 💼 Experience
 
 **Software Developer — Fiftyfive Technologies, Jaipur** · *Sept 2024 – Present*
@@ -39,32 +142,9 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black)](https://leetcode.com/Utkarsh_Payal/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/utkarshpayal/profile)
 
-## 🚀 Featured Projects
-
-### 📊 LogSense — AI-powered observability platform
-Turns raw application logs into insights: log ingestion from Node.js SDKs, dashboards, trace views, and an AI agent that lets you "ask your logs" in plain English, plus a daily AI log report.
-- [logsense-server](https://github.com/utkarshpayal/logsense-server) — Fastify + PostgreSQL (pgvector) API with JWT auth, API keys, AI agent via Ollama
-- [logsense-web](https://github.com/utkarshpayal/logsense-web) — Next.js dashboard (React Query, Tailwind, Leaflet maps)
-- [logsense-latest-sdk](https://github.com/utkarshpayal/logsense-latest-sdk) / [logsense-sdk-node](https://github.com/utkarshpayal/logsense-sdk-node) — TypeScript SDKs with Express middleware
-
-### 🌸 The Nura Care — women's-health platform
-Period-tracking and wellness companion with cycle predictions, an AI assistant, community chat and video calls, and doctor consultations.
-- [period-buddy](https://github.com/utkarshpayal/period-buddy) — Expo / React Native mobile app (Android & iOS)
-- [period-buddy-be](https://github.com/utkarshpayal/period-buddy-be) — Express + MongoDB REST & WebSocket API, deployed on AWS
-- [period-buddy-content](https://github.com/utkarshpayal/period-buddy-content) · [the-nura-care-cms](https://github.com/utkarshpayal/the-nura-care-cms) · [The-Nura-website](https://github.com/utkarshpayal/The-Nura-website) — admin workspace, CMS and SEO-prerendered marketing site
-
-### ⚡ Hyperrcompute — decentralised GPU marketplace
-Remote GPU/compute access over reverse P2P tunnels (HyperDHT): providers share their machines and users get isolated Docker-based Ubuntu environments with a browser terminal (xterm.js) — no centralised cloud required.
-- [ComputeMesh](https://github.com/utkarshpayal/ComputeMesh) — TypeScript Express + MongoDB backend for providers, nodes and job scheduling
-- [serverside-of-hyperrcompute](https://github.com/utkarshpayal/serverside-of-hyperrcompute) — Holesail-based provider agent with a Docker management API and WebSocket terminal
-- [pear-gpu](https://github.com/utkarshpayal/pear-gpu) — Pear + Hyperswarm Docker/GPU host manager
-- [Nodeflare-FE](https://github.com/utkarshpayal/Nodeflare-FE) — marketing site (React, GSAP, Tailwind)
-
-### 🧩 More projects
+## 🧩 More Projects
 | Project | What it is |
 |---|---|
-| [dev-connect](https://github.com/utkarshpayal/dev-connect) | VS Code extension to share your localhost with anyone over P2P (Holesail) |
-| [stripe-payment-BE](https://github.com/utkarshpayal/stripe-payment-BE) | Stripe Checkout backend for GPU rentals |
 | [zomato_clone](https://github.com/utkarshpayal/zomato_clone) | Zomato-style food app with live-stream and recipe-video features (React, Vite, Tailwind) |
 | [CodeSherlock](https://github.com/utkarshpayal/CodeSherlock) | GitHub profile explorer built on the GitHub API |
 | [PlatformGame](https://github.com/utkarshpayal/PlatformGame) | 2D platformer game in Java |
