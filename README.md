@@ -2,13 +2,36 @@
 
 ![Utkarsh Payal](Colorful%20Shapes%20Header%20Banner.png)
 
-I build **full-stack web, mobile and peer-to-peer applications** — from React / Next.js frontends and React Native apps to Node.js APIs, observability tooling and decentralised GPU-sharing systems. I'm also deeply interested in **Cyber Security** and **Machine Learning**, and I love collaborating on **open source**.
+**Full-stack Software Developer** with 2.5+ years of experience building and scaling production-grade web applications. I work across modern frontend frameworks and backend systems, owning features end-to-end from design to deployment — and I love building **peer-to-peer** and **decentralised** systems.
 
+- 💼 Software Developer at **Fiftyfive Technologies**, Jaipur
 - 🔭 Currently building **LogSense** (AI-powered log observability) and **The Nura Care** (women's-health platform)
-- 🌐 Exploring **peer-to-peer networking** with Holesail, Hyperswarm and the Pear runtime
-- 🛡️ Learning **Cyber Security** and **Machine Learning**
-- 💬 Ask me about **JavaScript/TypeScript, Node.js, React, Java, C++, MySQL/MongoDB and Cyber Security**
+- 🌐 Working with **peer-to-peer networking** — Holesail, HyperDHT, Hyperswarm and the Pear runtime
+- 💬 Ask me about **React, Next.js, TypeScript, Node.js, Express, MongoDB, Docker and AWS**
 - 📫 Reach me at **utkarsh12march2004@gmail.com**
+
+[![Download Resume](https://img.shields.io/badge/Download-Resume-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Resume.pdf)
+
+## 💼 Experience
+
+**Software Developer — Fiftyfive Technologies, Jaipur** · *Sept 2024 – Present*
+- Build and scale full-stack web applications with React, Next.js, Node.js and Express for internal and client-facing platforms
+- Own the end-to-end feature lifecycle: requirement analysis, system design, development, testing and production deployment
+- Design REST APIs with validation, error handling and security best practices
+- Build reusable UI components with Tailwind CSS, Material UI and shadcn; optimise data fetching with React Query and Axios
+
+**Software Developer — Holesail** · *Feb 2024 – Aug 2024*
+- Developed decentralised web applications in a P2P architecture using Node.js and React
+- Contributed to core networking features enabling secure peer-to-peer communication
+
+## 🎓 Education
+
+**B.Tech, Computer Science & Engineering** — B.K. Birla Institute of Engineering and Technology, Pilani · *2020 – 2024* · CGPA **8.8 / 10**
+
+## 🏆 Achievements
+
+- **Performance Excellence Award (3x)** — for delivering high-impact features and strong technical ownership
+- **1st Position** — SIH Internal Hackathon 2023, Code Cubical Hackathon (2200+ teams)
 
 ## 🌐 Socials
 
@@ -30,8 +53,8 @@ Period-tracking and wellness companion with cycle predictions, an AI assistant, 
 - [period-buddy-be](https://github.com/utkarshpayal/period-buddy-be) — Express + MongoDB REST & WebSocket API, deployed on AWS
 - [period-buddy-content](https://github.com/utkarshpayal/period-buddy-content) · [the-nura-care-cms](https://github.com/utkarshpayal/the-nura-care-cms) · [The-Nura-website](https://github.com/utkarshpayal/The-Nura-website) — admin workspace, CMS and SEO-prerendered marketing site
 
-### ⚡ Hyperrcompute — peer-to-peer GPU / compute sharing
-Lets providers share CPU/GPU machines and users run workloads in Docker containers over a P2P network.
+### ⚡ Hyperrcompute — decentralised GPU marketplace
+Remote GPU/compute access over reverse P2P tunnels (HyperDHT): providers share their machines and users get isolated Docker-based Ubuntu environments with a browser terminal (xterm.js) — no centralised cloud required.
 - [ComputeMesh](https://github.com/utkarshpayal/ComputeMesh) — TypeScript Express + MongoDB backend for providers, nodes and job scheduling
 - [serverside-of-hyperrcompute](https://github.com/utkarshpayal/serverside-of-hyperrcompute) — Holesail-based provider agent with a Docker management API and WebSocket terminal
 - [pear-gpu](https://github.com/utkarshpayal/pear-gpu) — Pear + Hyperswarm Docker/GPU host manager
@@ -69,8 +92,12 @@ Lets providers share CPU/GPU machines and users run workloads in Docker containe
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 **Backend & Databases**
 
@@ -88,22 +115,20 @@ Lets providers share CPU/GPU machines and users run workloads in Docker containe
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Cyber Security**
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-2DC262?style=for-the-badge&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-E14615?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF751A?style=for-the-badge&logo=burpsuite&logoColor=black)
-
 **Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
